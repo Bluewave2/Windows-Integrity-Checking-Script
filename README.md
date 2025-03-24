@@ -1,4 +1,4 @@
-# Windows-Integrity-Checking-Script
+# Windows-Integrity-Checking-Script (WIP)
 A script meant for auto detecting and fixing integrity issues found in Windows.
 ## Use case
 This tool was made to:
